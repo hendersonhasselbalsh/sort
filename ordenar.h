@@ -92,7 +92,7 @@ template<typename T> void bubble_sort(T* v, int size)
     }
 }
 
-void shake_sort(int* v, int size)
+void shake_sort(int* v, int size)   // algo esta errado, ainda não esta funcionando
 {
     int inicio = 1;
     int fim = size;
